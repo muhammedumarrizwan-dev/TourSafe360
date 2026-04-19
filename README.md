@@ -13,6 +13,7 @@
 - 3 custom PyTorch ML models
 - Socket.IO real-time alerts
 - Geofencing with violation alerts
+- 
 
 ### 🚀 Features
 - Real-time tourist tracking
@@ -40,4 +41,4 @@ cd patrol-app && flutter run
 Northeast India — Assam, Meghalaya, Manipur, Nagaland, Arunachal Pradesh, Mizoram, Tripura, Sikkim
 
 ### Developer
-Built by SRH — Solo AI/ML Engineer and Entrepreneur, Bangalore
+Built by Manish Sharma (Vayu) — AI/ML Engineer and Entrepreneur, Bangalore
