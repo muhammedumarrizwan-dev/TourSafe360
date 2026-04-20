@@ -41,4 +41,4 @@ cd patrol-app && flutter run
 Northeast India — Assam, Meghalaya, Manipur, Nagaland, Arunachal Pradesh, Mizoram, Tripura, Sikkim
 
 ### Developer
-Built by Manish Sharma (Vayu) — AI/ML Engineer and Entrepreneur, Bangalore
+Built by Manish Sharma (Vayu) — AI/ML Engineer , Bangalore
